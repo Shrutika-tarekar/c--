@@ -21,6 +21,7 @@ int main()
     INT a = 10;
     cout << a << endl;
     cout << a+1 << endl;
+    cout<<"updated value of a: \n";
     a+=1;
     cout << a << endl;
 }
